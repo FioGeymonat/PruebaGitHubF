@@ -7,6 +7,7 @@ public class Main {
         Persona persona2 = new Persona();
         persona2.setId(1);
         persona2.setName("Nacho");
+        persona2.setName("Nacho");
         System.out.println(persona2.getName());
         System.out.println(persona2.getId());
     }
