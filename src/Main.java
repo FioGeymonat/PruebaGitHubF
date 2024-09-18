@@ -6,8 +6,9 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         Persona persona = new Persona();
         persona.setId(1);
-        persona.setName("Nacho");
-        System.out.println(persona.getName());
+        persona.setName("Fio");
+        System.out.println(persona.getId());
+
 
 
         for (int i = 1; i <= 5; i++) {
